@@ -9,3 +9,7 @@
 ## Motif analysis
 
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020369
+
+## Topological dimension
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000748
