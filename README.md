@@ -13,7 +13,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6869099/ (with spatial constraints)
 
 Maps of random walks on complex networks reveal community structure
 https://www.pnas.org/doi/10.1073/pnas.0706851105
+(idea:  The high interconnectivity of nodes within a module can ensnare a random walker, meaning that it spends more time visiting those nodes and less time transitioning between communities. )
 
+Uncovering space-independent communities in spatial networks
+https://www.pnas.org/doi/full/10.1073/pnas.1018962108
+(Null models that consider space)
+
+The brainweb: phase synchronization and large-scale integration
+https://pubmed.ncbi.nlm.nih.gov/11283746/
+(dynamic modularity: in functional connectomes modularity changes in short periods of time)
 
 ## Motif analysis
 
