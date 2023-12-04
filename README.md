@@ -5,6 +5,11 @@
 
 # Articles to consider in the future
 
+## Hierarchical clustering 
+
+
+A hierarchical method for whole‐brain connectivity‐based parcellation
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6869099/ (with spatial constraints)
 
 ## Motif analysis
 
