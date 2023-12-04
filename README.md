@@ -5,11 +5,15 @@
 
 # Articles to consider in the future
 
-## Hierarchical clustering 
+## Modularity
 
 
 A hierarchical method for whole‐brain connectivity‐based parcellation
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6869099/ (with spatial constraints)
+
+Maps of random walks on complex networks reveal community structure
+https://www.pnas.org/doi/10.1073/pnas.0706851105
+
 
 ## Motif analysis
 
