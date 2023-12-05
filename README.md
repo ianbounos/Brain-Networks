@@ -27,6 +27,19 @@ https://pubmed.ncbi.nlm.nih.gov/11283746/
 
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020369
 
+## Network based statistics
+
+Network-based statistic: identifying differences in brain networks
+https://pubmed.ncbi.nlm.nih.gov/20600983/
+
+## Exponential Random Graph models
+
+An exponential random graph modeling approach to creating group-based representative whole-brain connectivity networks
+https://pubmed.ncbi.nlm.nih.gov/22281670/
+
+ergm: A Package to Fit, Simulate and Diagnose Exponential-Family Models for Networks
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743438/
+
 ## Topological dimension
 
 see **rentian scaling**
