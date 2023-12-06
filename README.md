@@ -5,6 +5,13 @@
 
 # Articles to consider in the future
 
+## Basics
+
+
+The Brain as a Complex System: Using Network Science as a Tool for Understanding the Brain
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621511/
+
+
 ## Modularity
 
 
