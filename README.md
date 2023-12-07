@@ -1,6 +1,5 @@
 # brain-networks
- Here, for learning purposes, we try to apply the techniques from the book "Fundamentals of Brain Network Analysis"
-
+ Here, for learning purposes, we try to apply in google colabs the techniques from the book "Fundamentals of Brain Network Analysis" (Alex Fornito, Andrew Zalesky and Edward T. Bullmore). 
 
 
 # Articles to consider in the future
